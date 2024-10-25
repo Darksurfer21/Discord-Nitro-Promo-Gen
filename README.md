@@ -1,4 +1,3 @@
-//==============Made by @sifatmusfique==============//
 
 - Upload and Unzip the files in the Host.
 
@@ -12,4 +11,4 @@
 
 - Promos will be saved in promos.txt file.
 
-//============== Share with Credit else Gay 😛==============//
+//============================//
